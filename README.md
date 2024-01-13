@@ -117,7 +117,7 @@ dicionario_golpes_contra_golpes = {
     "O-Soto-Guruma": "Osoto-otoshi",
     "Kata-Guruma": "Tani-Otoshi",
     "Ouchi-Gari" : "Ouchi-Gaeshi"
-}
+} '''
 
 ## Tai-Sabaki (Movimentação)
 Além dos golpes, o judô também envolve movimentação estratégica. O *Tai-Sabaki*, ou esquiva, desempenha um papel crucial na vida real e pode ser uma ferramenta valiosa para surpreender o oponente.
